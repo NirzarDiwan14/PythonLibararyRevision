@@ -1,7 +1,20 @@
-#20-01-2026 = numpy revision , pandas revision , matplotlib revision 
-#21-01-2026 = seaborn basics learning,learned about scatter plot , styling ,palletes , swarm plot ,histogram ,regression plot ,box plot ,violin plot ,etc just got the idea of how they look like ,now learning about EDA(exploratory data analysis )
+### 20-01-2026
+- NumPy revision
+- Pandas revision
+- Matplotlib revision
 
+### 21-01-2026
+- Learned Seaborn basics
+  - Scatter plot
+  - Styling
+  - Palettes
+  - Histogram
 
+- Gained an idea of how these visualizations look like
+- Started learning about Exploratory Data Analysis (EDA)
+  - EDA tasks added into Kaggle
+
+  
 # Pandas Practice Notebook
 
 A short reference notebook for core **Pandas** concepts with clear explanations and runnable examples.
